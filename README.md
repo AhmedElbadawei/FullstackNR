@@ -1,3 +1,2 @@
 # FullstackNR
-Fullstack WD training
-A compilation of codes and exercises
+Fullstack WD training, A compilation of codes and exercises
